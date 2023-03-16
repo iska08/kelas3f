@@ -1,18 +1,18 @@
 {
     "mahasiswa": [{
             "id": 1,
-            "nama": "jono",
-            "alamat": "malang"
+            "nama": "Riga",
+            "alamat": "Lamongan"
         },
         {
             "id": 2,
-            "nama": "jojon",
-            "alamat": "pasuruan"
+            "nama": "Sena",
+            "alamat": "Lamongan"
         },
         {
             "id": 3,
-            "nama": "jujun",
-            "alamat": "pasuruan"
+            "nama": "Alengka",
+            "alamat": "Lamongan"
         }
     ],
     "organisasi": [{
