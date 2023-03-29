@@ -1,44 +1,28 @@
 {
-    "mahasiswa": [{
-            "id": 1,
-            "nama": "Riga",
-            "alamat": "Lamongan"
+    "mahasiswa": [
+        {
+            "nim": "1234567890",
+            "nama": "John Doe",
+            "alamat": "Jalan Sudirman No. 123",
+            "noHp": "081234567890",
+            "tahunAngkatan": "2020",
+            "status": "aktif"
         },
         {
-            "id": 2,
-            "nama": "Sena",
-            "alamat": "Lamongan"
+            "nim": "0987654321",
+            "nama": "Jane Doe",
+            "alamat": "Jalan Thamrin No. 456",
+            "noHp": "081234567891",
+            "tahunAngkatan": "2019",
+            "status": "cuti"
         },
         {
-            "id": 3,
-            "nama": "Alengka",
-            "alamat": "Lamongan"
-        }
-    ],
-    "organisasi": [{
-            "id": 1,
-            "nama": "HMTI",
-            "sekretariat": "Gedung AS"
-        },
-        {
-            "id": 2,
-            "nama": "RISPOL",
-            "sekretariat": "Gedung AS"
-        },
-        {
-            "id": 3,
-            "nama": "PASTI",
-            "sekretariat": "Gedung AS"
-        },
-        {
-            "id": 4,
-            "nama": "USMA",
-            "sekretariat": "Gedung AS"
-        },
-        {
-            "id": 5,
-            "nama": "SENI",
-            "sekretariat": "Gedung AS"
+            "nim": "1357924680",
+            "nama": "Bob Smith",
+            "alamat": "Jalan Kebon Jeruk No. 789",
+            "noHp": "081234567892",
+            "tahunAngkatan": "2018",
+            "status": "lulus"
         }
     ]
 }
