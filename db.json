@@ -1,28 +1,58 @@
 {
     "mahasiswa": [
         {
+            "id": 1,
             "nim": "1234567890",
-            "nama": "John Doe",
-            "alamat": "Jalan Sudirman No. 123",
+            "nama": "Jono",
+            "alamat": "Malang",
             "noHp": "081234567890",
             "tahunAngkatan": "2020",
             "status": "aktif"
         },
         {
+            "id": 2,
             "nim": "0987654321",
-            "nama": "Jane Doe",
-            "alamat": "Jalan Thamrin No. 456",
+            "nama": "Jojon",
+            "alamat": "Pasuruan",
             "noHp": "081234567891",
             "tahunAngkatan": "2019",
             "status": "cuti"
         },
         {
+            "id": 3,
             "nim": "1357924680",
-            "nama": "Bob Smith",
-            "alamat": "Jalan Kebon Jeruk No. 789",
+            "nama": "Jujun",
+            "alamat": "Pasuruan",
             "noHp": "081234567892",
             "tahunAngkatan": "2018",
             "status": "lulus"
+        }
+    ],
+    "organisasi": [
+        {
+            "id": 1,
+            "nama": "HMTI",
+            "sekretariat": "Gedung AS"
+        },
+        {
+            "id": 2,
+            "nama": "RISPOL",
+            "sekretariat": "Gedung AS"
+        },
+        {
+            "id": 3,
+            "nama": "PASTI",
+            "sekretariat": "Gedung AS"
+        },
+        {
+            "id": 4,
+            "nama": "USMA",
+            "sekretariat": "Gedung AS"
+        },
+        {
+            "id": 5,
+            "nama": "SENI",
+            "sekretariat": "Gedung AS"
         }
     ]
 }
