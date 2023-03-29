@@ -49,43 +49,43 @@
     "jadwal": [
         {
             "id": 1,
-            "mata kuliah": "IoT",
+            "mata_kuliah": "IoT",
             "hari": "Senin",
             "pukul": "07.00 - 12.10"
         },
         {
             "id": 2,
-            "mata kuliah": "PCVK",
+            "mata_kuliah": "PCVK",
             "hari": "Senin",
             "pukul": "12.50 - 18.00"
         },
         {
             "id": 3,
-            "mata kuliah": "SPK",
+            "mata_kuliah": "SPK",
             "hari": "Selasa",
             "pukul": "07.00 - 10.30"
         },
         {
             "id": 4,
-            "mata kuliah": "Big Data",
+            "mata_kuliah": "Big Data",
             "hari": "Selasa",
             "pukul": "12.50 - 18.00"
         },
         {
             "id": 5,
-            "mata kuliah": "Metodologi Penelitian",
+            "mata_kuliah": "Metodologi Penelitian",
             "hari": "Rabu",
             "pukul": "08.40 - 12.10"
         },
         {
             "id": 6,
-            "mata kuliah": "PBF",
+            "mata_kuliah": "PBF",
             "hari": "Kamis",
             "pukul": "12.50 - 18.00"
         },
         {
             "id": 7,
-            "mata kuliah": "B. Inggris",
+            "mata_kuliah": "B. Inggris",
             "hari": "Jum'at",
             "pukul": "07.50 - 11.20"
         },
