@@ -49,19 +49,19 @@
     "jadwal": [
         {
             "id": 1,
-            "mata_kuliah": "IoT",
+            "mata_kuliah": "Internet of Things",
             "hari": "Senin",
             "pukul": "07.00 - 12.10"
         },
         {
             "id": 2,
-            "mata_kuliah": "PCVK",
+            "mata_kuliah": "Pengolahan Citra dan Visi Komputer",
             "hari": "Senin",
             "pukul": "12.50 - 18.00"
         },
         {
             "id": 3,
-            "mata_kuliah": "SPK",
+            "mata_kuliah": "Sistem Pendukung Keputusan",
             "hari": "Selasa",
             "pukul": "07.00 - 10.30"
         },
@@ -79,13 +79,13 @@
         },
         {
             "id": 6,
-            "mata_kuliah": "PBF",
+            "mata_kuliah": "Pemrograman Berbasis Framework",
             "hari": "Kamis",
             "pukul": "12.50 - 18.00"
         },
         {
             "id": 7,
-            "mata_kuliah": "B. Inggris",
+            "mata_kuliah": "Bahasa Inggris Persiapan Kerja",
             "hari": "Jum'at",
             "pukul": "07.50 - 11.20"
         }
